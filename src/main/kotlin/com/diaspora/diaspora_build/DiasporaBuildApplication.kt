@@ -1,4 +1,4 @@
-package com.diaspora.DiasporaBuild
+package com.diaspora.diaspora_build
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
